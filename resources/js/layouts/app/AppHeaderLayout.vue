@@ -10,7 +10,7 @@ type Props = {
 };
 
 withDefaults(defineProps<Props>(), {
-    breadcrumbs: () => [],
+    breadcrumbs: () => [],¡
 });
 </script>
 
